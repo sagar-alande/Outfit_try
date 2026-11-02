@@ -1,0 +1,9 @@
+{
+  "name": "Boldfit",
+  "short_name": "Boldfit",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0a09",
+  "theme_color": "#e11d48",
+  "description": "18+ adult outfit and body restyle. Face and background stay locked."
+}
